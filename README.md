@@ -60,25 +60,6 @@ KPI summary cards
 
 
 
-List your actual visuals/pages here once finalized.
 
-
-
-Insights
-
-
-(e.g., Bike bookings account for X% of total volume but only Y% of revenue)
-(e.g., Cancellation rate is highest during peak evening hours)
-(Add 3–5 real takeaways from your dashboard — this is the section recruiters read most closely)
-
-
-How to View
-
-
-Power BI Service link: [Add your published dashboard link here]
-.pbix file: Included in this repository
-
-
-About This Project
 
 Built as part of a hands-on data analytics portfolio, applying a BAF (Bachelor of Accounting and Finance) background to operational and financial analysis in the BFSI/mobility space. This project demonstrates data modeling, DAX, and dashboard design skills relevant to junior data analyst roles.
